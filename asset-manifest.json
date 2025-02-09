@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.25718fa3.css",
+    "main.js": "/static/js/main.d2203d27.js",
+    "static/media/pickleballBackgroundRemoved.png": "/static/media/pickleballBackgroundRemoved.0406d47ea8371f2d7234.png",
+    "index.html": "/index.html",
+    "main.25718fa3.css.map": "/static/css/main.25718fa3.css.map",
+    "main.d2203d27.js.map": "/static/js/main.d2203d27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25718fa3.css",
+    "static/js/main.d2203d27.js"
+  ]
+}
